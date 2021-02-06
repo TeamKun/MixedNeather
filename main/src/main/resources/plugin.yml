@@ -1,0 +1,10 @@
+name: Mixneather
+version: ${project.version}
+main: net.kunmc.lab.mixneather.Mixneather
+api-version: 1.15
+authors: [ Bun133 ]
+website: https://twitter.com/bun133_
+commands:
+  mix:
+    description: Mix Neathers Command
+    usage: /<command> <s/start/e/end/skip>
